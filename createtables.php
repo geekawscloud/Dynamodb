@@ -37,7 +37,7 @@
             )
         ),
         'ProvisionedThroughput' => array(
-             'ReadCapacityUnits'    => 10,
+             'ReadCapacityUnits'    => 5,
              'WriteCapacityUnits' => 5
         )
     ));
@@ -61,7 +61,7 @@
             )
         ),
         'ProvisionedThroughput' => array(
-            'ReadCapacityUnits'    => 10,
+            'ReadCapacityUnits'    => 5,
             'WriteCapacityUnits' => 5
         )
     ));
@@ -93,7 +93,7 @@
             )
         ),
         'ProvisionedThroughput' => array(
-            'ReadCapacityUnits'    => 10,
+            'ReadCapacityUnits'    => 5,
             'WriteCapacityUnits' => 5
         )
     ));
@@ -147,7 +147,7 @@
             )
         ),
         'ProvisionedThroughput' => array(
-            'ReadCapacityUnits'    => 10,
+            'ReadCapacityUnits'    => 5,
             'WriteCapacityUnits' => 5
         )
     ));
